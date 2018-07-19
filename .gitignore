@@ -1,0 +1,7 @@
+/vendor
+.idea
+!/wallets
+/wallets/*
+!wallets/.gitkeep
+config.php
+/docs
